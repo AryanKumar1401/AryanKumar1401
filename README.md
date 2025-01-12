@@ -9,6 +9,8 @@ I'm a Computer Science major and AI minor at Cornell University. I'm a passionat
 - **Email**: ak2488 [at] cornell [dot] edu
 - **[LinkedIn](https://www.linkedin.com/in/aryan-kumar-3434961aa/)**
 
+--- 
+Thank you for stopping by! Feel free to explore my repositories 🚀
 <!--
 **AryanKumar1401/AryanKumar1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
