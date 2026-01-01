@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aryan Kumar.
 
-I'm a Computer Science major and AI minor at Cornell University. I'm a passionate tech enthusiast who loves combining creativity and problem-solving to solve everyday problems. My interests are Artificial Intelligence (ML & NLP), Software Engineering, and Data Science. When I’m not coding, you’ll probably find me hiking scenic trails, running by the lake, watching anime or playing the piano.
+I'm a Computer Science major and AI minor at Cornell University. I love combining creativity and problem-solving to solve everyday problems. My interests are AI (ML & NLP), Software Engineering, and Data Science. When I’m not coding, you’ll probably find me hiking, running by the lake, watching anime or playing the piano.
 
 
 
